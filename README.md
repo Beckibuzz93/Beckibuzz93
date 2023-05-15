@@ -33,5 +33,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beckibuzz93&layout=donut&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api?username=Beckibuzz93&show_icons=true&theme=radical" />
 </div>
-
-https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js?q=t-rex+package:%5Echromium$&dr=C&l=7
