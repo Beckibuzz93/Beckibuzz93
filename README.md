@@ -1,5 +1,6 @@
 <h1 align="center"> Hi 👋 I'm Becki </h1>
 <h4 align="center"> Currently a Tech Trainee at La Fosse. Graduated in 2022 with a BSc in Software Engineering.</h4> 
+<h4 align="center"> Take a look at my projects: https://ralewis.co.uk/ </h4>
 
 <h2 align="left"> Technologies </h2>
 <div align="left" style="display: flex; flex-direction: row;">
