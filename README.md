@@ -13,9 +13,13 @@
   <img height="50" width="50" src="https://cdn.simpleicons.org/php/#777BB4" />
   
   <h4>Frameworks</h4>
+  <img height="50" width="50" src="https://cdn.simpleicons.org/p5dotjs/#ED225D" />
   <img height="50" width="50" src="https://cdn.simpleicons.org/react/#61DAFB" />
   <img height="50" width="50" src="https://cdn.simpleicons.org/jest/#C21325" />
-
+  <img height="50" width="50" src="https://cdn.simpleicons.org/express/#000000" />
+  <img height="50" width="50" src="https://cdn.simpleicons.org/flask/#000000" />
+  <img height="50" width="50" src="https://cdn.simpleicons.org/bootstrap/#7952B3" />
+  
   <h4>Databases</h4>
   <img height="50" width="50" src="https://cdn.simpleicons.org/postgresql/#4169E1" />
   <img height="50" width="50" src="https://cdn.simpleicons.org/mongodb/#47A248" />
