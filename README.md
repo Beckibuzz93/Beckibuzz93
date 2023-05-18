@@ -26,7 +26,7 @@
   <img height="50" width="50" src="https://cdn.simpleicons.org/phpmyadmin/#6C78AF" />
   
   
-  <h4> Tools </h4>
+  <h4> Tools & Other</h4>
    <img height="50" width="50" src="https://cdn.simpleicons.org/npm/#CB3837" />
    <img height="50" width="50" src="https://cdn.simpleicons.org/xampp/#FB7A24" />
    <img height="50" width="50" src="https://cdn.simpleicons.org/raspberrypi/#A22846" />
