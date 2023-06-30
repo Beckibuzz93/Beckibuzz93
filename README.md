@@ -35,5 +35,4 @@
 <h2 align="left"> Github stats </h2>
 <div align="left" style="display: flex; flex-direction: row;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beckibuzz93&layout=donut&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Beckibuzz93&show_icons=true&theme=radical" />
 </div>
