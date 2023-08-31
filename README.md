@@ -1,4 +1,4 @@
-<img src="https://github.com/Beckibuzz93/Beckibuzz93/assets/45924345/95d7e1d5-e069-46ac-9db3-57bcdd5fff2b">
+<img src="![Rebecca Lewis-banner](https://github.com/Beckibuzz93/Beckibuzz93/assets/45924345/efe71dc5-7b4f-4b37-82d1-82a3afb6a19f)">
 <h4 align="center"> Currently a Tech Trainee at La Fosse. Graduated in 2022 with a BSc in Software Engineering.</h4> 
 <h4 align="center"> Take a look at my projects: https://ralewis.co.uk/ </h4>
 
