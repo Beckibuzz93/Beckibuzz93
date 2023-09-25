@@ -2,7 +2,7 @@
 ![Rebecca Lewis - banner](https://github.com/Beckibuzz93/Beckibuzz93/assets/45924345/ac2ddcb4-998b-46be-aec7-03caf1ded718)
 
 <h4 align="center"> From writing “Hello World” to writing complex software, my journey in tech has been a constant source of learning, fascination and enjoyment. </h4> 
-<h4 align="center"> Take a look at my projects: https://ralewis.co.uk/ </h4>
+<h4 align="center"> Take a look at my projects: <a href="https://ralewis.co.uk/"> Portfolio </a> </h4>
 
 <h2 align="left"> Technologies </h2>
 <div align="left" style="display: flex; flex-direction: row;">
