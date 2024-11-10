@@ -7,26 +7,26 @@
 <h2 align="left"> Technologies </h2>
 <div align="left" style="display: flex; flex-direction: row;">
   <h4> Languages </h4>
-  <h6>HTML</h6>
-  <h6>CSS</h6>
-  <h6>C#</h6>
-  <h6>PHP</h6>
-  <h6>JS</h6>
+  <p>HTML</p>
+  <p>CSS</p>
+  <p>C#</p>
+  <p>PHP</p>
+  <p>JS</p>
   
   <h4>Frameworks</h4>
-  <h6>P5.js</h6>
-  <h6>React</h6>
-  <h6>NodeJS</h6>
-  <h6>Bootstrap</h6>
+  <p>P5.js</p>
+  <p>React</p>
+  <p>NodeJS</p>
+  <p>Bootstrap</p>
   
   <h4>Databases</h4>
-  <h6>mySQL</h6>
-  <h6>MSSQL</h6>
-  <h6>MongoDB</h6>
+  <p>mySQL</p>
+  <p>MSSQL</p>
+  <p>MongoDB</p>
   
   <h4> Tools & Other</h4>
-  <h6>NPM</h6>
-  <h6>Raspberry Pi</h6>
+  <p>NPM</p>
+  <p>Raspberry Pi</p>
 </div>
 
 <h2 align="left"> Github stats </h2>
